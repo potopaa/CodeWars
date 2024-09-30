@@ -1,2 +1,3 @@
 # CodeWars
-Daily coding
+
+Daily coding practice
