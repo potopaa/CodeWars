@@ -9,7 +9,6 @@ Examples:
 5  ->  101  (because  5 is  0b101 in binary)
 11 -> 1011  (because 11 is 0b1011 in binary)
 
-
 """
 
 
