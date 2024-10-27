@@ -8,4 +8,3 @@ We need a function that counts the number of sheep present in the array (true me
 
 def count_sheep(sheep):
     return sheep.count(True)
-
