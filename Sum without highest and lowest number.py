@@ -26,3 +26,4 @@ def sum_array(arr):
     sorted_arr = sorted(arr)
     trimmed_arr = sorted_arr[1:-1]
     return sum(trimmed_arr)
+    
